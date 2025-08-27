@@ -26,5 +26,6 @@ duckduckgo-search
 
 wikipedia
 
+ddgs
 
 
