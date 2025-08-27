@@ -16,7 +16,7 @@ uvicorn
 pydantic
 python-dotenv
 pinecone
-psycopg2
+psycopg2-binary
 
 arxiv
 duckduckgo-search
@@ -27,6 +27,7 @@ duckduckgo-search
 wikipedia
 
 ddgs
+
 
 
 
