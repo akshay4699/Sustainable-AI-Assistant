@@ -20,3 +20,5 @@ pinecone
 
 arxiv
 duckduckgo-search
+
+PdfReader
