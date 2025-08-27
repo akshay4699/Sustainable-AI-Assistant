@@ -21,4 +21,5 @@ pinecone
 arxiv
 duckduckgo-search
 
-PdfReader
+PyPDF2 
+
