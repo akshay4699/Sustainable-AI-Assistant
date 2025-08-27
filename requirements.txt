@@ -22,6 +22,9 @@ arxiv
 duckduckgo-search
 
 PyPDF2
+duckduckgo-search
+
 wikipedia
+
 
 
